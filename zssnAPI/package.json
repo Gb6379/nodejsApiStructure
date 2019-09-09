@@ -1,0 +1,26 @@
+{
+  "name": "zssnapi",
+  "version": "1.0.0",
+  "description": "Api node.js zssn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/gebriel/zssn.git"
+  },
+  "author": "Gabariel Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/gebriel/zssn/issues"
+  },
+  "homepage": "https://gitlab.com/gebriel/zssn#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
